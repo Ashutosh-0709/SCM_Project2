@@ -1,6 +1,6 @@
 ## Premise
 
-In this project, I have leveraged R (RStudio) and linear programming techniques to optimize a supply chain network involving 2 factories, 4 distribution centers, and 6 customers. The objective was to minimize transportation costs while ensuring that supply chain constraints, such as factory capacities, distribution center throughput limits and customer demands, were met efficiently. Through this optimization, the project aimed to enhance overall supply chain performance and improve the alignment between supply and demand.
+In this project, I have leveraged R (RStudio) and ARIMA modeling to create a forecast for the "Paint" product based on previous demand. We start with preparation of demand data and its analysis to identify trends and seasonality. Next, we determine ARIMA model parameters and finallly generate the forecast for the product. We also evaluate the forecast by checking the distribution of the residuals. The Forecast is generated for the next 12 months (until 2024).
 
 ---
 
